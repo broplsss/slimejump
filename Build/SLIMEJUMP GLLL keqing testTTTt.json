@@ -1,0 +1,16 @@
+{
+"companyName": "SlumpStudioo",
+"productName": "SlimeJump",
+"productVersion": "0.1",
+"dataUrl": "SLIMEJUMP GLLL keqing testTTTt.data.unityweb",
+"wasmCodeUrl": "SLIMEJUMP GLLL keqing testTTTt.wasm.code.unityweb",
+"wasmFrameworkUrl": "SLIMEJUMP GLLL keqing testTTTt.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
